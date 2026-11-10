@@ -38,8 +38,8 @@ export const images = {
   crm2: u('photo-1561754825-6f9d7b82322d', 'flat-screen-tv-turned-on-near-keyboard-multimedia-speaker-and-ceramic-mug-on-table-_cX76xaZB5A', 'Ruijia Wang', 1600, 630,
     { en: 'A workstation with monitor, keyboard and mug', ar: 'مكان عمل بشاشة ولوحة مفاتيح وكوب' }, '/images/projects/ghamer-crm.webp'),
 
-  a2zCover: u('photo-1717565813196-8944b57877f8', 'a-tall-blue-building-with-a-sky-in-the-background-MNkJpgjDfHo', 'Jayanth Muppaneni', 1600, 1066,
-    { en: 'A tall blue glass building against the sky', ar: 'مبنى زجاجي أزرق شاهق أمام السماء' }, '/images/projects/a2z-business.webp'),
+  // Real project showcase (local file)
+  a2zCover: '/images/projects/a2z-business.webp',
   a2z1: u('photo-1601103968879-cf90fc279c14', 'blue-and-white-concrete-building-5jHfHYHB_6s', 'Glen Ardi', 1600, 2851,
     { en: 'Blue and white modern facade', ar: 'واجهة حديثة باللونين الأزرق والأبيض' }, '/images/projects/a2z-business.webp'),
   a2z2: u('photo-1506625361699-f5757171b16a', 'building-during-night-Vu05z1AUPyU', 'Casper Bijmans', 1600, 1067,

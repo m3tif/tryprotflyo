@@ -51,7 +51,7 @@ export const projects = [
     liveUrl: 'https://www.a-zbusiness.com/ar',
     sourceUrl: '',
     cover: images.a2zCover,
-    layout: 'tall',
+    layout: 'wide',
     role: { en: 'Web development', ar: 'تطوير الموقع' },
     overview: {
       en: 'A2Z Business helps founders and investors set up and run companies in Saudi Arabia, with offices in Saudi Arabia, Bahrain and Egypt. The site presents its full catalogue of services — from company formation to licences, visas and consulting — in Arabic first, with a complete English version.',
